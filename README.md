@@ -1,13 +1,13 @@
 <h1 align="Left">Hi 👋, I'm Adwait Salankar</h1>
-<h3 align="Left">I'm a passionate developer with a strong interest in Machine Learning, Deep Learning, and software development. I enjoy building innovative solutions and tackling real-world problems.</h3>
+<h3 align="Left">I am a passionate developer interested in Machine Learning, Deep Learning, Computer Vision, and Software Development. I enjoy building innovative solutions and tackling real-world problems.</h3>
 
-- 🎓 B.Tech CSE **(6th Semester)**
+-  Currently pursuing B.Tech in CSE (6th Semester)
 
-- 💡 Tech Enthusiast with expertise in **Java, Python, AI/ML, Data Structures & Algorithms**
+-  Tech Enthusiast with expertise in **Java, Python, AI/ML, Data Structures & Algorithms**
 
-- 💼 Currently working on **Deepfake Detection – researching and developing techniques to identify manipulated media, utilizing deep learning models to enhance detection accuracy.**
+-  Currently working on **Deepfake Detection – researching and developing techniques to identify manipulated media, utilizing deep learning models to enhance detection accuracy.**
 
-- 📫 How to reach me [salankar.adwait@gmail.com](salankar.adwait@gmail.com)
+-  I enjoy discussing AI, neural networks, and language models.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

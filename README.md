@@ -5,8 +5,6 @@
 
 -  Tech Enthusiast with expertise in **Java, Python, AI/ML, Data Structures & Algorithms**
 
--  Currently working on **Deepfake Detection – researching and developing techniques to identify manipulated media, utilizing deep learning models to enhance detection accuracy.**
-
 -  I enjoy discussing AI, neural networks, and language models.
 
 <h3 align="left">Connect with me:</h3>
